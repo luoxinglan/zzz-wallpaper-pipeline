@@ -1,0 +1,13 @@
+{
+ "nn": 48,
+ "eyes_visible": "true",
+ "ax": 62.88,
+ "ay": 19.21,
+ "bx": 57.72,
+ "by": 25.61,
+ "r_pct": 1.54,
+ "color_a": "#E45130",
+ "color_b": "#B0533C",
+ "confidence": "high",
+ "notes": "v34c 截图差值修正：B原偏15%已纠正; v36 bg2色斑定位; v41c rebake A(-0.1,-0.2) B(-0.0,0.3)"
+}

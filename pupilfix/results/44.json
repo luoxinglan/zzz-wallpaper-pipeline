@@ -1,0 +1,13 @@
+{
+ "nn": 44,
+ "eyes_visible": "true",
+ "ax": 57.65,
+ "ay": 18.95,
+ "bx": 56.1,
+ "by": 16.4,
+ "r_pct": 1.72,
+ "color_a": "#C8A030",
+ "color_b": "#C8A030",
+ "confidence": "high",
+ "notes": "v34b 无锚点宽幅重测; v35视觉复核修正; v41c rebake A(1.0,1.7) B=MISS"
+}

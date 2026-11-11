@@ -1,0 +1,13 @@
+{
+ "nn": 41,
+ "eyes_visible": "true",
+ "ax": 26.0,
+ "ay": 22.0,
+ "bx": 26.0,
+ "by": 22.0,
+ "r_pct": 1.63,
+ "color_a": "#70B838",
+ "color_b": "#70B838",
+ "confidence": "high",
+ "notes": "v34b 无锚点宽幅重测; v41c rebake A=MISS B=single; v41c rebake A=MISS B=single"
+}

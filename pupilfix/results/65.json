@@ -1,0 +1,13 @@
+{
+ "nn": 65,
+ "eyes_visible": "true",
+ "ax": 60.71,
+ "ay": 38.64,
+ "bx": 56.59,
+ "by": 56.67,
+ "r_pct": 1.8,
+ "color_a": "#E9B65E",
+ "color_b": "#D3AA50",
+ "confidence": "high",
+ "notes": "零号·安比 仰面纵排双眼，bg3色簇检测+截图互证修正; v36 bg2色斑定位; v41c rebake A(0.0,0.1) B(0.2,0.2)"
+}

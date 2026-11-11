@@ -1,0 +1,13 @@
+{
+ "nn": 5,
+ "eyes_visible": "true",
+ "ax": 72.58,
+ "ay": 27.79,
+ "bx": 79.12,
+ "by": 29.97,
+ "r_pct": 1.54,
+ "color_a": "#E0C75E",
+ "color_b": "#B891F2",
+ "confidence": "high",
+ "notes": "v34b 无锚点宽幅重测; v35视觉复核修正; v36 bg2色斑定位; v41c rebake A(-0.6,-0.0) B(0.0,0.1); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.2,-0.5); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.1,-0.3) B(0.0,0.0); v41c rebake A(-0.0,0.0) B(0.0,0.0); v41c rebake A(-0.1,0.1) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.0,0.0); v41n trace锚定旧真值(屏幕描线质心->旧眼心)"
+}

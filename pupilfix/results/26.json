@@ -1,0 +1,13 @@
+{
+ "nn": 26,
+ "eyes_visible": "true",
+ "ax": 52.14,
+ "ay": 38.74,
+ "bx": 52.4,
+ "by": 38.6,
+ "r_pct": 0.95,
+ "color_a": "#FFFFFF",
+ "color_b": "#FFFFFF",
+ "confidence": "high",
+ "notes": "v35确认闭眼→整体关闭"
+}

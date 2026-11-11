@@ -1,0 +1,13 @@
+{
+ "nn": 61,
+ "eyes_visible": "true",
+ "ax": 42.58,
+ "ay": 34.18,
+ "bx": 42.67,
+ "by": 33.92,
+ "r_pct": 1.51,
+ "color_a": "#6482C7",
+ "color_b": "#6482C7",
+ "confidence": "high",
+ "notes": "v34b 无锚点宽幅重测; v35视觉复核修正; v36 bg2色斑定位; v41c rebake A(-0.1,0.3) B=single"
+}

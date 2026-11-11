@@ -1,0 +1,13 @@
+{
+ "nn": 9,
+ "eyes_visible": "true",
+ "ax": 70.68,
+ "ay": 38.54,
+ "bx": 70.68,
+ "by": 38.5,
+ "r_pct": 0.94,
+ "color_a": "#DE3F57",
+ "color_b": "#DE3F57",
+ "confidence": "high",
+ "notes": "冯·莱卡恩 侧脸单眼，B色黑禁用防双倍亮度，色簇检测修正; v36 bg2色斑定位; v41c rebake A(-0.0,0.0) B=single"
+}

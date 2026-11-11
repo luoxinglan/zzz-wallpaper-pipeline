@@ -1,0 +1,13 @@
+{
+ "nn": 1,
+ "eyes_visible": "true",
+ "ax": 43.55,
+ "ay": 32.35,
+ "bx": 53.64,
+ "by": 28.13,
+ "r_pct": 2.35,
+ "color_a": "#C37A15",
+ "color_b": "#C1801B",
+ "confidence": "high",
+ "notes": "v34c 截图差值修正：A从鼻梁移到左眼; v36 bg2色斑定位; v41c rebake A(-0.0,-0.0) B(-0.1,-0.1); v41c rebake A(0.0,0.0) B(0.0,0.0); v41c rebake A(0.0,0.0) B(0.0,0.0)"
+}
